@@ -7,5 +7,3 @@ yield(collection[i])
     i += 1
 end
 end
-
-
