@@ -1,4 +1,5 @@
 require 'pry'
+binding.pry
 my_all?([1,2,3]) {|1| 1 < 2}
 def my_all?(collection)
 i = 0
